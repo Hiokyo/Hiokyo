@@ -2,6 +2,7 @@
 <h3 align="center">Student at University of Greenwich 🌟.</h3>
 
 <br>
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="" /></p>
 
 - 🌱 I’m currently learning Front-end web development and other programming languages
 
