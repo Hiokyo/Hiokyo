@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **hieutran235@gmail.com**
 
-- ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
+- ⚡ Fun fact :- Code and Music🎵 are the reasons to live.
 
 <br>
 
